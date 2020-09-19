@@ -1,6 +1,6 @@
 ### Hi, i'm Claiton 👋
 
-[![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto)](https://github.com/anuraghazra/github-readme-stats)
+[![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
 <!--
 **ClaitonBarreto/claitonbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
