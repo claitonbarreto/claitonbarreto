@@ -14,7 +14,7 @@
 <img width="80px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
 </div>
 <br />
-:briefcase: **And learning:** <br />
+:briefcase: **And learning:** Awesome<br />
 <br/><br/><br/>
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
