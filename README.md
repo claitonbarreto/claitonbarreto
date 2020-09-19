@@ -1,4 +1,4 @@
-### Hi, i'm Claiton :man:
+## Hi, i'm Claiton :man:
 
 
 [![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=282A36&style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/claiton-barreto-9b5b16145/)
@@ -6,7 +6,7 @@
 [![Twitter badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Twitter&color=282A36&style=flat&logo=twitter&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
 [![Spotify badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Spotify&color=282A36&style=flat&logo=spotify&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
 
-## :briefcase: This is my professional life 
+### :briefcase: This is my professional life 
 
 :briefcase: **Currently working as:** Fullstack software developer at [i-Hunter Tecnologia da Informação](https://i-hunter.com)
 
