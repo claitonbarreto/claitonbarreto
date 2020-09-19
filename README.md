@@ -1,4 +1,4 @@
-### Hi, i'm Claiton 👋
+### Hi, i'm Claiton :man:
 
 
 [![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=282A36&style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/claiton-barreto-9b5b16145/)
@@ -18,8 +18,6 @@
 <br />
 :briefcase: **And learning:** Awesome<br />
 <br/><br/><br/>
-
-## :star: Things that i like doing in free time
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
