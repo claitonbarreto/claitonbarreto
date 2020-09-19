@@ -4,10 +4,11 @@
 
 [![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=0077B5&style=flat&logo=linkedin)](https://www.linkedin.com/in/claiton-barreto-9b5b16145/)
 [![Instagram badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Instagram&color=E20059&style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
-[![Instagram badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Twitter&color=1DA1F2&style=flat&logo=twitter&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
+[![Twitter badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Twitter&color=1DA1F2&style=flat&logo=twitter&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
+[![Spotify badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Spotify&color=1ED760&style=flat&logo=twitter&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
 
 
-<!--twitter color #1DA1F2-->
+<!--spotify color #1ED760-->
 
 <!--
 **ClaitonBarreto/claitonbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
