@@ -8,9 +8,9 @@
 
 ### :briefcase: This is my professional life 
 
-:briefcase: **Currently working as:** Fullstack software developer at [i-Hunter Tecnologia da Informação](https://i-hunter.com)
+- :briefcase: **Currently working as:** Fullstack software developer at [i-Hunter Tecnologia da Informação](https://i-hunter.com)
 
-:briefcase: **Currently working on:** <br/>
+- :briefcase: **Currently working on:** <br/>
 <div style="display: inline">
 <img width="80px" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png">
 <img width="80px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
