@@ -2,6 +2,8 @@
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
+[Linkedin badge](https://img.shields.io/static/v1?label=linkedin&message=%3CMESSAGE%3E&color=%3CCOLOR%3E&style=%3CSTYLE%3E&logo=%3CLOGO%3E)
+
 <!--
 **ClaitonBarreto/claitonbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
