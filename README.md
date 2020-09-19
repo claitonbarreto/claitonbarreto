@@ -2,7 +2,7 @@
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
-[![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=283E4A&style=flat&logo=linkedin)](https://google.com)
+[![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=0077B5&style=flat&logo=linkedin)](https://google.com)
 [![Instagram badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Instagram&color=E20059&style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
 
 <!--
