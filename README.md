@@ -13,6 +13,7 @@
 <img width="80px" src="https://seeklogo.com/images/L/laravel-framework-logo-C10176EC8C-seeklogo.com.png">
 <img width="80px" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
 </div>
+<br/><br/><br/>
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
