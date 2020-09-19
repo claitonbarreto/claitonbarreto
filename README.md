@@ -2,8 +2,8 @@
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
-[![Linkedin badge](https://img.shields.io/static/v1?label=Linkedin&message=&color=%3CCOLOR%3E&style=social&logo=linkedin)](https://google.com)
-[![Instagram badge](https://img.shields.io/static/v1?label=Instagram&message=&color=%3CCOLOR%3E&style=social&logo=instagram)](https://www.instagram.com/cbarreto.dev/)
+[![Linkedin badge](https://img.shields.io/static/v1?label=Linkedin&color=%3CCOLOR%3E&style=social&logo=linkedin)](https://google.com)
+[![Instagram badge](https://img.shields.io/static/v1?label=Instagram&color=%3CCOLOR%3E&style=social&logo=instagram)](https://www.instagram.com/cbarreto.dev/)
 
 <!--
 **ClaitonBarreto/claitonbarreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
