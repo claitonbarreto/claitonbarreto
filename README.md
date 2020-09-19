@@ -19,6 +19,8 @@
 :briefcase: **And learning:** Awesome<br />
 <br/><br/><br/>
 
+## :star: Things that i like doing in free time
+
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
 
