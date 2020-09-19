@@ -1,6 +1,6 @@
 ### Hi, i'm Claiton 👋
 
-:computer: Fullstack software developer at <a href="https://i-hunter.com" target="_blank">i-Hunter Tecnologia da Informação</a>
+:computer: Fullstack software developer at [i-Hunter Tecnologia da Informação](https://i-hunter.com)
 
 [![Claiton's github stats](https://github-readme-stats.vercel.app/api?username=claitonbarreto&show_icons=true&hide=issues&theme=dracula)](https://github.com/anuraghazra/github-readme-stats?hide=issues)
 
