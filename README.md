@@ -11,8 +11,8 @@
 🏢 **Currently working as:** *Fullstack software developer at **i-Hunter Tecnologia da Informação***
 <br><br>
 ### **Skills:**
-<div style="display: flex; justify-content: flex-start; align-items: center">
-    <img src="./javascript.png" style="width: 20px; margin-right: 15px"/>
+<div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw">
+    <img src="./javascript.png" style="width: 8%; margin-right: 15px"/>
     <img src="./node.png" style="width: 8%; margin-right: 15px"/>
     <img src="./react.png" style="width: 8%; margin-right: 15px"/>
     <img src="./php.png" style="width: 8%; margin-right: 15px"/>
