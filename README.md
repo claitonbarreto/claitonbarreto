@@ -12,12 +12,12 @@
 <br><br>
 ### **Skills:**
 <div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw">
-    <img src="./javascript.png" width="50" style="margin-right: 15px"/>
-    <img src="./node.png" style="width: 8%; margin-right: 15px"/>
-    <img src="./react.png" style="width: 8%; margin-right: 15px"/>
-    <img src="./php.png" style="width: 8%; margin-right: 15px"/>
-    <img src="./laravel.png" style="width: 8%; margin-right: 15px"/>
-    <img src="./git.png" style="width: 7.2%; margin-right: 15px"/>
+    <img src="./javascript.png" width="100" style="margin-right: 15px"/>
+    <img src="./node.png" width="100" style="margin-right: 15px"/>
+    <img src="./react.png" width="100" style="margin-right: 15px"/>
+    <img src="./php.png" width="100" style="margin-right: 15px"/>
+    <img src="./laravel.png" width="100" style="margin-right: 15px"/>
+    <img src="./git.png" width="100" style="margin-right: 15px"/>
 </div>
 
 <br><br>
