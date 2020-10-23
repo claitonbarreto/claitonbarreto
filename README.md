@@ -6,7 +6,7 @@
 
 
 
-**I'm a Full-Stack Developer working and living in Rio de Janeiro, Brazil**
+**I'm a Full-Stack Developer working at home and living in Rio de Janeiro, Brazil**
 
 🏢 **Currently working as:** *Fullstack software developer at **i-Hunter Tecnologia da Informação***
 <br><br>
