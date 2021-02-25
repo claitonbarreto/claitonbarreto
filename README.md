@@ -2,7 +2,7 @@
 ### **Welcome to my space** <br><br>
 [![Linkedin badge](https://img.shields.io/static/v1?label=&nbsp;&message=Linkedin&color=282A36&style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/claiton-barreto-9b5b16145/)
 [![Twitter badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Twitter&color=282A36&style=flat&logo=twitter&logoColor=fff)](https://twitter.com/_claitonbarreto)
-[![Instagram badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Instagram&color=282A36&style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/cbarreto.dev/)
+[![Instagram badge](https://img.shields.io/static/v1?label=&nbsp;&&message=Instagram&color=282A36&style=flat&logo=instagram&logoColor=fff)](https://www.instagram.com/_claitonbarreto/)
 
 
 
