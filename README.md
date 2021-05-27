@@ -8,7 +8,7 @@
 
 **I'm a Full-Stack Developer working at home and living in Rio de Janeiro, Brazil**
 
-🏢 **Currently working as:** *Fullstack software developer at **i-Hunter Tecnologia da Informação***
+🏢 **Currently working as:** *Fullstack software developer
 <br><br>
 ### **Skills:**
 <div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw">
