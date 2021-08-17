@@ -8,7 +8,7 @@
 
 **I'm a Full-Stack Developer working at home and living in Rio de Janeiro, Brazil**
 
-🏢 **Currently working as:** *Fullstack software developer*
+🏢 **Currently working as:** *Fullstack software developer at [Hvar Consulting](https://hvarconsulting.com.br/)*
 <br><br>
 ### **Skills:**
 <div style="display: flex; justify-content: flex-start; align-items: center; width: 100vw">
